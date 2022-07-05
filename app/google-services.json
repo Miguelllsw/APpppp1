@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "114949965483",
+    "firebase_url": "https://asisapp-488de-default-rtdb.firebaseio.com",
+    "project_id": "asisapp-488de",
+    "storage_bucket": "asisapp-488de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114949965483:android:8ae5e0153ee395db9759ee",
+        "android_client_info": {
+          "package_name": "com.miguel.appppp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114949965483-0n2700r399c2jfsga2kvao7ogt52e3u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdr6RTirmUqlFSuyngkYxMf1hN-8YnwXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114949965483-0n2700r399c2jfsga2kvao7ogt52e3u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114949965483:android:c0a15dc83b566cad9759ee",
+        "android_client_info": {
+          "package_name": "com.primero.bdatos001"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114949965483-0n2700r399c2jfsga2kvao7ogt52e3u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdr6RTirmUqlFSuyngkYxMf1hN-8YnwXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114949965483-0n2700r399c2jfsga2kvao7ogt52e3u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
